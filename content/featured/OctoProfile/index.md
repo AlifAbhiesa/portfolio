@@ -1,14 +1,17 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'Pasar Strategis'
+cover: './pasar.jpg'
+github: 'https://github.com/AlifAbhiesa/Codeigniter-K-Means-Clistering'
+external: '#'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - CodeIgniter
+  - Google Maps API
+  - Geocoding API
+  - Distance Matrix API
+  - K-Means Clustering
+  - Silhouette Coefficient
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+Application made for farmers to sell crops with maximum profit.
