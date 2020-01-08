@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-application made for traders to be able to transact without a 3rd party
+Application made for traders to be able to transact without a 3rd party
